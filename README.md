@@ -209,6 +209,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 ## APIs, Data, and ML
 
+  * [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
   * [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
   * [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
   * [Apify](https://www.apify.com/) — Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
@@ -289,6 +290,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
   * [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
   * [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
+  * [Market Data API](https://www.marketdata.app) - Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge.
   * [Meteosource Weather API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
   * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. One hundred reqs/day, every day free.
   * [Mindee](https://developers.mindee.com/docs) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.
@@ -339,6 +341,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
   * [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorization and no request limits.
   * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
+  * [SmartParse](https://smartparse.io) - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
   * [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
   * [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
@@ -584,7 +587,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Make](https://www.make.com/en) — The workflow automation tool lets you connect apps and automate workflows using UI. It supports many apps and the most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations, and 15 minutes of minimum interval.
   * [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
   * [microtica.com](https://microtica.com/) - Startup environments with ready-made infrastructure components, deploy apps on AWS for free, and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 monthly deployments.
-
+  * [Nx Cloud](https://nx.dev/ci) - Nx Cloud speeds up your monorepos on CI with features such as remote caching, distribution of tasks across machines and even automated splitting of your e2e test runs. It comes with a free plan for up to 30 contributors with generous 150k credits included.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -895,6 +898,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
   * [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
   * [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
+  * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses from industry-leading experts to get hands-on experience with the latest generative AI tools and techniques in an hour or less.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1012,6 +1016,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
   * [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
   * [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
+  * [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1109,7 +1114,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. The free tier provides enough to run five services and collaborate with others.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
-  * [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs, and Storage by using infrastructure _from_ the code approach(no YAML, no infrastructure configuration). Serverless Inc. provides the product and it is currently under public preview.
+  * [ampt.dev](https://getampt.com/) - Ampt lets teams build, deploy, and scale JavaScript apps on AWS without complicated configs or managing infrastructure. Free Preview plan includes 500 invocations hourly, 2,500 invocations daily and 50,000 invocations monthly. Custom domains are allowed only in the paid plans.
   * [Divio](https://www.divio.com/) - A platform to manage cloud applications deploying only using Docker. Available free subscription for development projects. Requires card and no custom domain support.
   * [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 1GB memory, 1GB storage, and 0.25 CPU. No credit card is required to get started.
   * [Napkin](https://www.napkin.io/) - FaaS with 500Mb of memory, a default timeout of 15 seconds, and 5,000 free API calls/month rate-limited to 5 calls/second.
@@ -1419,6 +1424,7 @@ Update Time, five active automations, webhooks.
   * [gumlet.com](https://www.gumlet.com/) — Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
   * [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
   * [Imgbot](https://github.com/marketplace/imgbot) — Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
+  * [ImgBB](https://imgbb.com/) — ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
   * [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
   * [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
   * [kvstore.io](https://www.kvstore.io/) — Key-value storage service. The free tier allows 100 keys, 1KB/key, 100 calls/hour
@@ -1483,6 +1489,7 @@ Update Time, five active automations, webhooks.
   * [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
   * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes three users and five projects with all features available.
   * [mockupmark.com](https://mockupmark.com/create/free) — Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.
+  * [movingpencils.com](https://movingpencils.com) — Fast, browser-based vector editor. Completely free.
   * [Octopus.do](https://octopus.do) — Visual sitemap builder. Build your website structure in real time and rapidly share it to collaborate with your team or clients.
   * [Pencil](https://github.com/evolus/pencil) - Open source design tool using Electron.
   * [Penpot](https://penpot.app) - Web-based, open-source design and prototyping tool. Supports SVG. Completely free.
@@ -1698,6 +1705,7 @@ Update Time, five active automations, webhooks.
   * [LogSpot](https://logspot.io) - Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks). Free plan includes 10,000 events per month.
   * [Umami](https://umami.is/) - Simple, fast, privacy-focused, open-source alternative to Google Analytics.
   * [TrackWith Dicloud](https://dicloud.net/trackwith-privacy-focused-analytics/) - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.
+  * [AppFit](https://appfit.io) - AppFit is a comprehensive analytics and product management tool designed to facilitate seamless, cross-platform management of analytics and product updates. Free plan includes 10,000 events per month, product journal and weekly insights.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1899,6 +1907,7 @@ Update Time, five active automations, webhooks.
 
 ## Other Free Resources
 
+  * [Wikimint Developer](https://developer.wikimint.com/p/tools.html) - Always free tools for web developers that includes CSS minify unminify, image optimizer, image resizer, case convertor, CSS validator, JavaScript compiler, HTML editor, etc.
   * [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
   * [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [Framacloud](https://degooglisons-internet.org/en/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
